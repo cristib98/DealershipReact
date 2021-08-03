@@ -1,0 +1,38 @@
+{
+  "carId": "12345",
+  "make": "Audi",
+  "model": "A6",
+  "modelBodyStyle": "Saloon",
+  "modelVariant": "50 TDI quattro",
+  "themeColorRGB": "25, 25, 25",
+  "imgUrl": "https://st.motortrend.com/uploads/sites/5/2018/05/2019-Audi-A6-94-1.jpg",
+  "generalData": [
+      {
+          "title": "Mileage:",
+          "value": "1,534"
+        },
+        {
+          "title": "Reg:",
+          "value": "LD68 XYZ"
+        },
+        {
+          "title": "Next Service Due In:",
+          "value": "1 year 3 months"
+        },
+        {
+          "title": "Next MOT In:",
+          "value": "2 years 9 months"
+        },
+        {
+          "title": "Locked:",
+          "value": "Yes"
+        }
+  ],
+  "fuelData": {
+      "fuelLevel": "100",
+      "range": "432",
+      "rangeUnit": "mi",
+      "averageConsumption": "42",
+      "consumptionUnit": "mpg"
+  }
+}
